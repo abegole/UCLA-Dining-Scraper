@@ -4,3 +4,10 @@ Use Windows Task Scheduler, Crontabs, or something similar (for now) to set up a
 
 Feel free to adjust the excel sheet to better visualize your data.
 All excel data is from up to 1/18/2024.
+
+FUTURE VERSIONS (in order planned):
+ - Virtual hosting
+ - Cloud datasheet
+ - Website
+ - Chrome extension
+    *Calender & Dining hall website
