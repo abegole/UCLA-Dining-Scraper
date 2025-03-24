@@ -1,3 +1,5 @@
+--BROKEN, UCLA WEBSITES NO LONGER POST INFORMATION IN THIS WAY--
+
 CRITICAL - Must install openpyxl, lxml, & Pandas to run
 IMPORTANT - you will have to use auto-py-to-exe to convert the file to the appropriate .exe.
 
